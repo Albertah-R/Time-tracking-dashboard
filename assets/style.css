@@ -1,0 +1,77 @@
+ /*** Fonts ***/
+/*- Family: [Rubik](https://fonts.google.com/specimen/Rubik)
+- Weights: 300, 400, 500*/
+
+ /*** Root ***/
+:root {
+  
+    /*** Colors ***/
+    /* Primary */
+    --Blue: hsl(246, 80%, 60%);
+    --Light-red-work: hsl(15, 100%, 70%);
+    --Soft-blue-play: hsl(195, 74%, 62%);
+    --Light-red-study: hsl(348, 100%, 68%);
+    --Lime-green-exercise: hsl(145, 58%, 55%);
+    --Violet-social: hsl(264, 64%, 52%);
+    --Soft-orange-self-care: hsl(43, 84%, 65%);
+
+    /* Neutral */
+    --Very-dark-blue: hsl(226, 43%, 10%);
+    --Dark-blue: hsl(235, 46%, 20%);
+    --Desaturated-blue: hsl(235, 45%, 61%);
+    --Pale-Blue: hsl(236, 100%, 87%);
+
+    /* Font */
+    --Font: ;
+    --Font-size: 18px ;
+}
+
+ /*** Typographie ***/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+a,
+ul,
+li,
+button,
+aside,
+section,
+header,
+main,
+footer,
+
+ /*** ***/
+ /*** ***/
+ /*** ***/
+
+
+ /*** Base ***/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+ /*** ***/
+
+ /*** Cards 
+ 260px 
+ 20px border radius ***/
+
+ /*** ***/
+ /*** Footer ***/
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+ /*** Responsive design ***/
